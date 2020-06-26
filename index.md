@@ -11,3 +11,5 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 Zitat - Max Mustermann:
 > Lorem ipsum dolor sit amet
 > sed diam nonumy eirmod tempor.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Fahrerkarte_VS.jpg/220px-Fahrerkarte_VS.jpg"/>
