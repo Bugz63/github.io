@@ -7,3 +7,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 * Eigenschaft 2
 * Eigenschaft 3
 * Eigenschaft 4
+
+Zitat - Max Mustermann:
+> Lorem ipsum dolor sit amet
+> sed diam nonumy eirmod tempor.
